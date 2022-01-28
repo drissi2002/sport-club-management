@@ -1,0 +1,31 @@
+>>le numero de 'entraineur :1
+la categorie d'activite foot
+>>la CIN :14565
+>>le nom :drissi
+>>le prenom :houcem
+>>la date de naissance :>>12/10/1999
+
+>>l'adresse :IRAN2036
+>>le telephone :94139819
+>>le salaire  :1400 DT
+----------------------------------------
+>>la CIN :265267
+>>le nom :DRISSI
+>>le prenom :YOUCEF
+>>la date de naissance :>>25/3/1965
+
+>>l'adresse :MARSA
+>>le telephone :97690400
+>>le salaire  :1200 DT
+----------------------------------------
+>>le numero de 'entraineur :2
+la categorie d'activite HAND
+>>la CIN :1
+>>le nom :1
+>>le prenom :1
+>>la date de naissance :>>1/1/1
+
+>>l'adresse :1
+>>le telephone :1
+>>le salaire  :1000 DT
+----------------------------------------

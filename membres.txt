@@ -1,0 +1,14 @@
+>>la CIN :1
+>>le nom :1
+>>le prenom :1
+>>la date de naissance :>>1/1/11
+
+>>l'adresse :1
+>>le telephone :1
+>>le numero d'abonnement :1
+>>la cotisation :1
+le 1 ere activite 
+ >>  le type de l'activite sportive est :1
+ >>  sa categorie :1
+ >>  le numero d'entrainneur est :1
+ >>  le numero du salle d'entrainnement :1
